@@ -7,6 +7,15 @@ This is a transcript of the keynote Anna Ossowski ([Twitter](https://twitter.com
 
 _The idea of this transcript is heavily inspired by Ana Balica's ([Twitter](https://twitter.com/anabalica), [GitHub](https://github.com/ana-balica)) transcript of her [Humanizing among coders](https://ana-balica.github.io/2017/05/28/humanizing-among-coders/) keynote for [PyCon CZ 2016](https://cz.pycon.org/2016/). Thank you!_
 
+## Translations
+
+This transcript exists in the following languages:
+
+- [English](README.md) (original)
+- [Czech](cs.md)
+
+## Transcript
+
 <table><tr><td width="30%">
 
 ![Slide 0](https://speakerd.s3.amazonaws.com/presentations/0f0734a05b5046d9b30de5acf5279615/slide_0.jpg?1497395596)

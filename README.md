@@ -2,10 +2,10 @@
 
 This is a transcript of the keynote [Anna Ossowski](https://twitter.com/OssAnna16) gave at [PyCon CZ 2017](https://cz.pycon.org/2017/).
 
-- [original slides](https://speakerdeck.com/ossanna16/keynote-pycon-cz-2017-be-come-a-mentor-help-others-succeed)
+- [original slide deck](https://speakerdeck.com/ossanna16/keynote-pycon-cz-2017-be-come-a-mentor-help-others-succeed)
 - [video recording](https://www.youtube.com/watch?v=motIB96FI48&t=14930s)
 
-The idea of this transcript is heavily inspired by [Ana Balica](https://twitter.com/anabalica)'s transcript of her [Humanizing among coders](https://ana-balica.github.io/2017/05/28/humanizing-among-coders/) keynote for [PyCon CZ 2016](https://cz.pycon.org/2016/).
+_The idea of this transcript is heavily inspired by [Ana Balica](https://twitter.com/anabalica)'s transcript of her [Humanizing among coders](https://ana-balica.github.io/2017/05/28/humanizing-among-coders/) keynote for [PyCon CZ 2016](https://cz.pycon.org/2016/). Thank you!_
 
 <table><tr><td>
 

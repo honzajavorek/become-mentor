@@ -16,4 +16,4 @@ Tento přepis existuje v následujících jazycích:
 
 ## Přepis
 
-_Zrada! Nic tady ještě není :( _
+_Zrada! Nic tady ještě není :(_

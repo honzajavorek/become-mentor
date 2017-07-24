@@ -17,3 +17,7 @@ Tento přepis existuje v následujících jazycích:
 ## Přepis
 
 _Zrada! Nic tady ještě není :(_
+
+## Licence
+
+Tento obsah je dostupný pod licencí [CC-BY-NC-ND 3.0](./LICENSE).

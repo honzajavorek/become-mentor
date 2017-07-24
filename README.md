@@ -481,3 +481,7 @@ That’s all I have for you today. I don’t think I have some time to answer qu
 I hope you enjoy the rest of PyCon Czech, enjoy beautiful Prague, and have an awesome day. Thank you so much for being here today and listening.
 
 </td></tr></table>
+
+## License
+
+This content is licensed under [CC-BY-NC-ND 3.0](./LICENSE).

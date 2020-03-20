@@ -1,3 +1,5 @@
+[![Náhled přednášky](play.png)](https://www.youtube.com/watch?v=8xeX7wfX_x4)
+
 # Be(Come) A Mentor! Help Others Succeed!
 
 Toto je přepis úvodní přednášky Anny Ossowski ([Twitter](https://twitter.com/OssAnna16), [GitHub](https://github.com/OssAnna16)), kterou [měla](https://cz.pycon.org/2017/speakers/detail/talk/10/#main) na konferenci [PyCon CZ 2017](https://cz.pycon.org/2017/).
@@ -6,8 +8,6 @@ Toto je přepis úvodní přednášky Anny Ossowski ([Twitter](https://twitter.c
 - [nahrávka přednášky](https://www.youtube.com/watch?v=8xeX7wfX_x4)
 
 _Nápad udělat a zpřístupnit přepis tímto způsobem je silně inspirován přepisem úvodní přednášky [Humanizing among coders](https://ana-balica.github.io/2017/05/28/humanizing-among-coders/) od Any Balica ([Twitter](https://twitter.com/anabalica), [GitHub](https://github.com/ana-balica)), kterou měla na konferenci [PyCon CZ 2016](https://cz.pycon.org/2016/). Díky!_
-
-[![Náhled přednášky](play.png)](https://www.youtube.com/watch?v=8xeX7wfX_x4)
 
 ## Překlady
 

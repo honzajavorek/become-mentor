@@ -1,6 +1,6 @@
 [![Náhled přednášky](play.png)](https://www.youtube.com/watch?v=8xeX7wfX_x4)
 
-# Be(Come) A Mentor! Help Others Succeed!
+# Staň se mentorem! Pomoz druhým uspět!
 
 Toto je přepis úvodní přednášky Anny Ossowski ([Twitter](https://twitter.com/OssAnna16), [GitHub](https://github.com/OssAnna16)), kterou [měla](https://cz.pycon.org/2017/speakers/detail/talk/10/#main) na konferenci [PyCon CZ 2017](https://cz.pycon.org/2017/).
 

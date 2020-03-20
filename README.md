@@ -1,11 +1,13 @@
 # Be(Come) A Mentor! Help Others Succeed!
 
-This is a transcript of the keynote Anna Ossowski ([Twitter](https://twitter.com/OssAnna16), [GitHub](https://github.com/OssAnna16)) gave at [PyCon CZ 2017](https://cz.pycon.org/2017/).
+This is a transcript of the keynote Anna Ossowski ([Twitter](https://twitter.com/OssAnna16), [GitHub](https://github.com/OssAnna16)) [gave](https://cz.pycon.org/2017/speakers/detail/talk/10/#main) at [PyCon CZ 2017](https://cz.pycon.org/2017/).
 
 - [original slide deck](https://speakerdeck.com/ossanna16/keynote-pycon-cz-2017-be-come-a-mentor-help-others-succeed)
 - [video recording](https://www.youtube.com/watch?v=8xeX7wfX_x4)
 
 _The idea of this transcript is heavily inspired by Ana Balica's ([Twitter](https://twitter.com/anabalica), [GitHub](https://github.com/ana-balica)) transcript of her [Humanizing among coders](https://ana-balica.github.io/2017/05/28/humanizing-among-coders/) keynote for [PyCon CZ 2016](https://cz.pycon.org/2016/). Thank you!_
+
+[![Recording preview](play.png)](https://www.youtube.com/watch?v=8xeX7wfX_x4)
 
 ## Translations
 

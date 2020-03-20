@@ -1,11 +1,13 @@
 # Be(Come) A Mentor! Help Others Succeed!
 
-Toto je přepis úvodní přednášky Anny Ossowski ([Twitter](https://twitter.com/OssAnna16), [GitHub](https://github.com/OssAnna16)), kterou měla na konferenci [PyCon CZ 2017](https://cz.pycon.org/2017/).
+Toto je přepis úvodní přednášky Anny Ossowski ([Twitter](https://twitter.com/OssAnna16), [GitHub](https://github.com/OssAnna16)), kterou [měla](https://cz.pycon.org/2017/speakers/detail/talk/10/#main) na konferenci [PyCon CZ 2017](https://cz.pycon.org/2017/).
 
 - [původní slajdy](https://speakerdeck.com/ossanna16/keynote-pycon-cz-2017-be-come-a-mentor-help-others-succeed)
 - [nahrávka přednášky](https://www.youtube.com/watch?v=8xeX7wfX_x4)
 
 _Nápad udělat a zpřístupnit přepis tímto způsobem je silně inspirován přepisem úvodní přednášky [Humanizing among coders](https://ana-balica.github.io/2017/05/28/humanizing-among-coders/) od Any Balica ([Twitter](https://twitter.com/anabalica), [GitHub](https://github.com/ana-balica)), kterou měla na konferenci [PyCon CZ 2016](https://cz.pycon.org/2016/). Díky!_
+
+[![Náhled přednášky](play.png)](https://www.youtube.com/watch?v=8xeX7wfX_x4)
 
 ## Překlady
 
@@ -26,7 +28,7 @@ Ahoj všichni! Doufám že si PyCon Czech zatím užíváte.
 
 Jsem poprvé na PyCon Czech, poprvé v Praze a vlastně poprvé v životě dělám hlavního řečníka na konferenci. Jsem ohromně nadšená, že tady dnes můžu být a něco vám povědět! Děkuju vám všem, že tu jste a za to, že se ke mě připojíte na této přednášce!
 
-Předtím než začnu, chtěla bych pogratulovat organizátorskému týmu PyCon Czech, který tohle všechno dal dohromady a pozval mě, abych vám něco řekla, a se kterými bylo naprosto fantastické pracovat. Obzvlášť bych chtěla zmínit program finanční pomoci, díky kterému tady dnes můžu být. 
+Předtím než začnu, chtěla bych pogratulovat organizátorskému týmu PyCon Czech, který tohle všechno dal dohromady a pozval mě, abych vám něco řekla, a se kterými bylo naprosto fantastické pracovat. Obzvlášť bych chtěla zmínit program finanční pomoci, díky kterému tady dnes můžu být.
 
 Děkuji!
 
@@ -37,11 +39,11 @@ Děkuji!
 
 </td><td>
 
-Nejprve něco málo o mně. Mé jméno je Anna Ossowski. Jsem z Německa. Mám titul z angličtiny a katolické teologie. Možná jste na mém slidu identifikovali Williama Shakespeara a papeže Františka. Zhruba před třemi lety jsem se začala učit Python a působit v komunitách okolo Pythonu a Djanga. Mám ráda technologie, kód a také mám moc ráda lidi, takže zbožňuji pracovat na průsečíku obojího. V současné době pracuji jako Community & Operations manager Django REST frameworku. 
+Nejprve něco málo o mně. Mé jméno je Anna Ossowski. Jsem z Německa. Mám titul z angličtiny a katolické teologie. Možná jste na mém slidu identifikovali Williama Shakespeara a papeže Františka. Zhruba před třemi lety jsem se začala učit Python a působit v komunitách okolo Pythonu a Djanga. Mám ráda technologie, kód a také mám moc ráda lidi, takže zbožňuji pracovat na průsečíku obojího. V současné době pracuji jako Community & Operations manager Django REST frameworku.
 
 Také jsem zapojena v pár dalších technologických záležitostech. Jsem předseda PyCon US Open Spaces. Jsem také předseda DjangoCon US pro diverzitu. A nakonec jsem jednou z vedoucích skupiny PyLadies Remote.
 
-Dneska jsem tady proto, abych vám pověděla o mentorování a pomáhání ostatním uspět. 
+Dneska jsem tady proto, abych vám pověděla o mentorování a pomáhání ostatním uspět.
 
 </td></tr>
 <tr><td width="30%">
@@ -52,7 +54,7 @@ Dneska jsem tady proto, abych vám pověděla o mentorování a pomáhání osta
 
 Předtím než začnu, chtěla bych udělat malý neformální průzkum. Kdo z vás už někdy někoho mentoroval? A kdo z vás byl někdy mentorován? Ok, skvělý.
 
-Pojďme se do toho pustit a podívat se na to, kdo je to mentor. Mám titul z angličtiny. Miluju definice a slovníky. Takže, co jsem udělala? Samozřejmě jsem vzala online slovník a vyhledala slovo mentor. Slovník Merriam Webster píše, že mentor je někdo, kdo učí nebo pomáhá a radí méně zkušenému a mnohdy mladšímu člověku. A také že mentor je důveryhodný poradce nebo průvodce. Nemyslím si, že tato definice je perfektní, ale postačí. 
+Pojďme se do toho pustit a podívat se na to, kdo je to mentor. Mám titul z angličtiny. Miluju definice a slovníky. Takže, co jsem udělala? Samozřejmě jsem vzala online slovník a vyhledala slovo mentor. Slovník Merriam Webster píše, že mentor je někdo, kdo učí nebo pomáhá a radí méně zkušenému a mnohdy mladšímu člověku. A také že mentor je důveryhodný poradce nebo průvodce. Nemyslím si, že tato definice je perfektní, ale postačí.
 
 Mentorování nemusí nutně znamenat pomáhat nebo radit někomu, kdo je méně zkušený. Můžete mentorovat někoho, kdo je na stejné úrovni anebo dokonce zkušenější než vy. A osoba kterou mentorujete nemusí nutně být mladší než vy.
 
@@ -63,7 +65,7 @@ Mentorování nemusí nutně znamenat pomáhat nebo radit někomu, kdo je méně
 
 </td><td>
 
-Takže víme něco málo o tom, kdo je to mentor. Ale proč lidé mentory potřebují? 
+Takže víme něco málo o tom, kdo je to mentor. Ale proč lidé mentory potřebují?
 
 </td></tr>
 <tr><td width="30%">
@@ -72,7 +74,7 @@ Takže víme něco málo o tom, kdo je to mentor. Ale proč lidé mentory potře
 
 </td><td>
 
-Představte si situaci, kdy jste se naučili něco nového. Ať už to byl nový programovací jazyk, koníček, sport, hudební nástroj nebo prostě cokoliv nového. Nejspíš tam byla chvíle, kdy jste se zasekli. A náhle před vámi byla ta obrovská hora a vy jste nevěděli, jak ji překonat. Je to prostě fakt, že když se učíte něco nového, tak se v nějakém bodě zaseknete. A když se to stane, máte 2 možnosti. 
+Představte si situaci, kdy jste se naučili něco nového. Ať už to byl nový programovací jazyk, koníček, sport, hudební nástroj nebo prostě cokoliv nového. Nejspíš tam byla chvíle, kdy jste se zasekli. A náhle před vámi byla ta obrovská hora a vy jste nevěděli, jak ji překonat. Je to prostě fakt, že když se učíte něco nového, tak se v nějakém bodě zaseknete. A když se to stane, máte 2 možnosti.
 
 </td></tr>
 <tr><td width="30%">
@@ -81,7 +83,7 @@ Představte si situaci, kdy jste se naučili něco nového. Ať už to byl nový
 
 </td><td>
 
-Můžete to buďto vzdát nebo najít pomoc. A vzdát to je rozhodně platná možnost. Chci zdůraznit, že vzdát se není chyba. Není to něco, za co byste se měli stydět. Ve skutečnosti vzdát se je občas opravdu chytrá volba. Ale řekněme, že se něco učíte a jste opravdu rozhodnutí to zvládnout, ale zasekli jste se, nemáte sebemenší nápad, jak tu horu vylézt, takže vaše nejlepší možnost je sehnat pomoc. A to je přesně ten moment, kdy přichází na scénu mentor. Pamatujte si, že to chce úsilí a odvahu někoho oslovit a požádat o pomoc, ale oslovit mentora je první krok nového úspěšného příběhu. Přivede vás to o krok blíže dosáhnutí cíle. 
+Můžete to buďto vzdát nebo najít pomoc. A vzdát to je rozhodně platná možnost. Chci zdůraznit, že vzdát se není chyba. Není to něco, za co byste se měli stydět. Ve skutečnosti vzdát se je občas opravdu chytrá volba. Ale řekněme, že se něco učíte a jste opravdu rozhodnutí to zvládnout, ale zasekli jste se, nemáte sebemenší nápad, jak tu horu vylézt, takže vaše nejlepší možnost je sehnat pomoc. A to je přesně ten moment, kdy přichází na scénu mentor. Pamatujte si, že to chce úsilí a odvahu někoho oslovit a požádat o pomoc, ale oslovit mentora je první krok nového úspěšného příběhu. Přivede vás to o krok blíže dosáhnutí cíle.
 
 </td></tr>
 <tr><td width="30%">
@@ -90,7 +92,7 @@ Můžete to buďto vzdát nebo najít pomoc. A vzdát to je rozhodně platná mo
 
 </td><td>
 
-Takže, co je práce mentora? Mentorova práce je podat ruku. Buďte rádce. Buďte spojenec. Pomožte jim zdolat horu. Běžte na misi s nimi. Sdílejte svoje znalosti a pomožte někomu jinému uspět. Pomožte někomu nastavit a dosáhnout kariérních cílů, dělat chytrá obchodní rozhodnutí, překonat pracovní výzvy, naučit se nové dovednosti nebo jednoduše nabídněte pohled z odstupu když někdo v práci čelí frustraci. 
+Takže, co je práce mentora? Mentorova práce je podat ruku. Buďte rádce. Buďte spojenec. Pomožte jim zdolat horu. Běžte na misi s nimi. Sdílejte svoje znalosti a pomožte někomu jinému uspět. Pomožte někomu nastavit a dosáhnout kariérních cílů, dělat chytrá obchodní rozhodnutí, překonat pracovní výzvy, naučit se nové dovednosti nebo jednoduše nabídněte pohled z odstupu když někdo v práci čelí frustraci.
 
 </td></tr>
 <tr><td width="30%">
@@ -140,7 +142,7 @@ Mentorování je nejenom ohromně zábavné a odměňující, ale také se toho 
 Když věnujete čas rozvinutí silného mentorského vztahu, získáte přístup k hromadě znalostí a zkušeností, ale také získáte celoživotního přítele a potenciálního budoucího obchodního partnera. Ve zkratce, není tam žádná nevýhoda. Je to obousměrná ulice. Celé to je protkané vzájemností: Oba máte jisté dovednosti, které si můžete nabídnout navzájem.
 
 Mentorství je neskutečně naplňující zkušenost a mentoři se naučí alespoň tolik, kolik sami učí.
-A pokud o tom popřemýšlíte z perspektivy open source, udržování a vedení projektů sám není moc udržitelné. Abyste udělali open source udržitelný, musíte vytrénovat a naučit i ostatní, jak se věci dělají. Věřím v to, že mentorství bude udržovat budoucnost open source. 
+A pokud o tom popřemýšlíte z perspektivy open source, udržování a vedení projektů sám není moc udržitelné. Abyste udělali open source udržitelný, musíte vytrénovat a naučit i ostatní, jak se věci dělají. Věřím v to, že mentorství bude udržovat budoucnost open source.
 
 </td></tr>
 <tr><td width="30%">
@@ -149,9 +151,9 @@ A pokud o tom popřemýšlíte z perspektivy open source, udržování a vedení
 
 </td><td>
 
-O mentorství existuje několik velkých mýtů. Ten, který si myslím že je z nich největší je následující: Musíte být expertem, abyste byli dobrým mentorem. Tento mýtus není pravda. Nemusíte být expert. Dost často stačí, pokud jste procházeli stejnými problémy jako osoba, kterou mentorujete. 
+O mentorství existuje několik velkých mýtů. Ten, který si myslím že je z nich největší je následující: Musíte být expertem, abyste byli dobrým mentorem. Tento mýtus není pravda. Nemusíte být expert. Dost často stačí, pokud jste procházeli stejnými problémy jako osoba, kterou mentorujete.
 
-Například: Já se začala učit angličtinu v 5. třídě. V 7. a 8. třídě jsem začala pomáhat mladším studentům. Měla jsem výrazně více zkušeností než oni? Ne, jenom jsem už prošla stejnými těžkostmi, kterými procházeli oni, a proto jsem se s jejich problémy mohla ztotožnit a pořád jsem jim mohla pomoci. Pomáhám studentům angličtiny už přes 10 let a myslím si, že to pro mě bylo jednodušší je doučovat, když jsem byla mladší, protože jsem byla jejich problémům blíž. Mezitím jsem totiž dokončila 9 let středoškolské angličtiny, rok výměnného pobytu v USA a diplom z angličtiny, ale rozhodně nejsem na angličtinu expert. Můžete být zkušenější, ale čím víc zkušeností máte, tím těžší pro vás bude porozumět problémům lidí. 
+Například: Já se začala učit angličtinu v 5. třídě. V 7. a 8. třídě jsem začala pomáhat mladším studentům. Měla jsem výrazně více zkušeností než oni? Ne, jenom jsem už prošla stejnými těžkostmi, kterými procházeli oni, a proto jsem se s jejich problémy mohla ztotožnit a pořád jsem jim mohla pomoci. Pomáhám studentům angličtiny už přes 10 let a myslím si, že to pro mě bylo jednodušší je doučovat, když jsem byla mladší, protože jsem byla jejich problémům blíž. Mezitím jsem totiž dokončila 9 let středoškolské angličtiny, rok výměnného pobytu v USA a diplom z angličtiny, ale rozhodně nejsem na angličtinu expert. Můžete být zkušenější, ale čím víc zkušeností máte, tím těžší pro vás bude porozumět problémům lidí.
 
 </td></tr>
 <tr><td width="30%">
@@ -160,7 +162,7 @@ Například: Já se začala učit angličtinu v 5. třídě. V 7. a 8. třídě 
 
 </td><td>
 
-Další mýtus je, že jedině osobní mentorování je dobré a to také není pravda. Nemusíte žít ve stejném městě a potkávat se každý týden v kavárně, abyste měli dobrý a úspěšný vztah mentor-mentee. Online mentorování a mentorování na dálku je úplně stejně efektivní. 
+Další mýtus je, že jedině osobní mentorování je dobré a to také není pravda. Nemusíte žít ve stejném městě a potkávat se každý týden v kavárně, abyste měli dobrý a úspěšný vztah mentor-mentee. Online mentorování a mentorování na dálku je úplně stejně efektivní.
 
 Můj přítel Ian je jeden z mých mentorů číslo jedna. Ian žije v Madisonu, ve státě Wisconsin a já žiji v Německu, takže mezi námi je kromě obrovské vzdálenosti i 7 hodinový časový rozdíl, ale stejně nám to funguje a zvládáme se virtuálně každou středu na hodinu sejít. Nebo mu můžu napsat kdykoliv, kdy potřebuji pomoc, i když zrovna není středa. Slaví to velký úspěch a díky jeho ochotě jsem se naučila tunu věcí. Osobní mentorování je skvělé, ale mentorování na dálku funguje taky skvěle.
 
@@ -171,7 +173,7 @@ Můj přítel Ian je jeden z mých mentorů číslo jedna. Ian žije v Madisonu,
 
 </td><td>
 
-Mýtus číslo 3 je, že mentorování někoho sebere hromadu času. To také není pravda. Mentorování rozhodně je časový závazek, ale nemusí to sebrat tunu času a rozhodně to neznamená, že musíte být dostupný nepřetržitě. Co se pro mě ukázalo jako efektivní je nastavit si "úřední hodiny" stejně jako jsme to udělali s Ianem. Setkáváme se každou středu na hodinu. Buďto ten čas používáme na to, že se ptám na otázky, společně pracujeme na projektu nebo se prostě bavíme o něčem jiném. Výhoda toho, že máte "úřední hodiny" je, že máte nastavený čas, kdy jsou obě strany k dispozici. Také vím, že se ve středu můžu ptát Iana na všechny otázky a nemám pocit, že mu musím psát každý den, pokud to není něco urgentního. 
+Mýtus číslo 3 je, že mentorování někoho sebere hromadu času. To také není pravda. Mentorování rozhodně je časový závazek, ale nemusí to sebrat tunu času a rozhodně to neznamená, že musíte být dostupný nepřetržitě. Co se pro mě ukázalo jako efektivní je nastavit si "úřední hodiny" stejně jako jsme to udělali s Ianem. Setkáváme se každou středu na hodinu. Buďto ten čas používáme na to, že se ptám na otázky, společně pracujeme na projektu nebo se prostě bavíme o něčem jiném. Výhoda toho, že máte "úřední hodiny" je, že máte nastavený čas, kdy jsou obě strany k dispozici. Také vím, že se ve středu můžu ptát Iana na všechny otázky a nemám pocit, že mu musím psát každý den, pokud to není něco urgentního.
 
 </td></tr>
 <tr><td width="30%">
@@ -180,7 +182,7 @@ Mýtus číslo 3 je, že mentorování někoho sebere hromadu času. To také ne
 
 </td><td>
 
-A poslední mýtus je, že jenom nováčci potřebují mentory. To také není pravda. 
+A poslední mýtus je, že jenom nováčci potřebují mentory. To také není pravda.
 Zvlášť v technologiích se pořád máte co nového učit a musíte činit stále nová rozhodnutí. Nikdy to nebudete znát všechno. Někdy je to fajn prostě získat na něco druhý názor.
 
 Jako lidé se neustále učíme a vyvíjíme. Ani nejzkušenější profesionál nezná všechno. Vždycky hrajte obě role. I mentoři můžou mít mentory. Je to v pořádku mít někoho, na koho se obrátit o pomoc. Ideálně byste neměli nikdy být nuceni udělat plný přechod od menteeho k mentorovi. Můžete být obojím. Všichni bychom se měli učit a zároveň jiné učit.
@@ -201,9 +203,9 @@ Prosím mějte na paměti, že je rozdíl mezi mentorem a tutorem. Tutor je obvy
 
 </td><td>
 
-Klíč úspěchu je jednoduše definovat si vztah od začátku. Udělat otevřený dialog. Před tím než začnete mentorovat, měli byste si se svým mentee popovídat a vyjasnit si pár věcí: Co jsou vaše cíle? Na čem společně chcete pracovat? Jaký bude časový závazek? Jak budete komunikovat? Samozřejmě se tyto věci můžou v průběhu času měnit, ale je důležité si to vyjasnit, abyste měli dobrý základ pro začátek vaší mentorské cesty. 
+Klíč úspěchu je jednoduše definovat si vztah od začátku. Udělat otevřený dialog. Před tím než začnete mentorovat, měli byste si se svým mentee popovídat a vyjasnit si pár věcí: Co jsou vaše cíle? Na čem společně chcete pracovat? Jaký bude časový závazek? Jak budete komunikovat? Samozřejmě se tyto věci můžou v průběhu času měnit, ale je důležité si to vyjasnit, abyste měli dobrý základ pro začátek vaší mentorské cesty.
 
-Když jsme s Ianem spolu začali pracovat, udělali jsme to stejně. Určili jsme projekt, na kterém budeme společně pravoat. Určili jsme, že mým cílem bylo stát se lepším programátorem a naučit se REST API. Rozhodli jsme se, že komunikace přes Slack nebo email pro nás bude nejlepší. A rozhodli jsme se virtuálně setkávat na hodinu týdně. Některé týdny mu také na Slacku nebo Emailem napíšu mimo naše "úřední hodiny", ale je to naprosto na něm, kdy mi napíše zpět, takže nám to funguje skvěle. 
+Když jsme s Ianem spolu začali pracovat, udělali jsme to stejně. Určili jsme projekt, na kterém budeme společně pravoat. Určili jsme, že mým cílem bylo stát se lepším programátorem a naučit se REST API. Rozhodli jsme se, že komunikace přes Slack nebo email pro nás bude nejlepší. A rozhodli jsme se virtuálně setkávat na hodinu týdně. Některé týdny mu také na Slacku nebo Emailem napíšu mimo naše "úřední hodiny", ale je to naprosto na něm, kdy mi napíše zpět, takže nám to funguje skvěle.
 
 </td></tr>
 <tr><td width="30%">
@@ -212,7 +214,7 @@ Když jsme s Ianem spolu začali pracovat, udělali jsme to stejně. Určili jsm
 
 </td><td>
 
-Pojďmě se podívat na dosavadní seznam věcí, které dělat anebo nedělat v mentoringu. Co jsou věci, které byste ideálně jako mentor měli dělat. A co jsou věci, které byste naopak dělat neměli. 
+Pojďmě se podívat na dosavadní seznam věcí, které dělat anebo nedělat v mentoringu. Co jsou věci, které byste ideálně jako mentor měli dělat. A co jsou věci, které byste naopak dělat neměli.
 
 </td></tr>
 <tr><td width="30%">
@@ -221,11 +223,11 @@ Pojďmě se podívat na dosavadní seznam věcí, které dělat anebo nedělat v
 
 </td><td>
 
-Nepředpokládejte, že víte jak pomoci, prostě se zeptejte: Jak ti můžu pomoci? Zjistěte jaký druh pomoci mentee potřebuje. Chtějí, abyste jim řekli řešení programátorského problému? Potřebují nápovědy anebo vedení? 
+Nepředpokládejte, že víte jak pomoci, prostě se zeptejte: Jak ti můžu pomoci? Zjistěte jaký druh pomoci mentee potřebuje. Chtějí, abyste jim řekli řešení programátorského problému? Potřebují nápovědy anebo vedení?
 
 Potřebují vysvětlení? Nebo potřebují pouze ujištění?
 
-Je také důležité nepředpokládat znalost v určitých oblastech. Prostě se zeptejte: "Znáš tohle a tohle?" Tento způsob nejenom způsobí to, že se mentee bude cítit o sto procent komfortněji, ale také vám to mentorování hodně usnadní. Naučte se ptát správnými otázkami, abyste zjistili, čemu mentee nerozumí. Dost často se lidé cítí trapně nebo nejistě, když by se měli přiznat, že něčemu nerozumí. Dejte jim příležitost říct "Nevím" a aby se při tom cítili v pohodě. 
+Je také důležité nepředpokládat znalost v určitých oblastech. Prostě se zeptejte: "Znáš tohle a tohle?" Tento způsob nejenom způsobí to, že se mentee bude cítit o sto procent komfortněji, ale také vám to mentorování hodně usnadní. Naučte se ptát správnými otázkami, abyste zjistili, čemu mentee nerozumí. Dost často se lidé cítí trapně nebo nejistě, když by se měli přiznat, že něčemu nerozumí. Dejte jim příležitost říct "Nevím" a aby se při tom cítili v pohodě.
 
 </td></tr>
 <tr><td width="30%">
@@ -234,11 +236,11 @@ Je také důležité nepředpokládat znalost v určitých oblastech. Prostě se
 
 </td><td>
 
-Což nás uvádí k dalšímu bodu: Ukažte vlastní chyby. Sesaďte se z trůnu. Ukažte svému menteemu, že jste také normální člověk. Sdílejte své problémy se svým mentee. Řekněte jim, jaké to bylo, když jste začínali programovat. Lidé nesympatizují s perfektním, sympatizují s nečím, co má chybky. 
+Což nás uvádí k dalšímu bodu: Ukažte vlastní chyby. Sesaďte se z trůnu. Ukažte svému menteemu, že jste také normální člověk. Sdílejte své problémy se svým mentee. Řekněte jim, jaké to bylo, když jste začínali programovat. Lidé nesympatizují s perfektním, sympatizují s nečím, co má chybky.
 
-Mý studenti angličtiny se mě během hodinové lekce možná 10x ptali "Co znamená tohle a tohle slovo?" Ne vždycky jsem to věděla, tak jsem vytáhla svůj telefon nebo iPad a vyhledala jsem to za ně. 
+Mý studenti angličtiny se mě během hodinové lekce možná 10x ptali "Co znamená tohle a tohle slovo?" Ne vždycky jsem to věděla, tak jsem vytáhla svůj telefon nebo iPad a vyhledala jsem to za ně.
 
-Je naprosto v pořádku říct "Nevím." Ve skutečnosti když něco nevíte, uděláte život svého menteeho jednodušší, protože jim ukážete, že také nejste perfektní, což na oplátku znamená, že to bude jednodušší i pro ně přiznat, že něco neví. Také to z vás sejme hodně tlaku.  
+Je naprosto v pořádku říct "Nevím." Ve skutečnosti když něco nevíte, uděláte život svého menteeho jednodušší, protože jim ukážete, že také nejste perfektní, což na oplátku znamená, že to bude jednodušší i pro ně přiznat, že něco neví. Také to z vás sejme hodně tlaku.
 
 Možná jste slyšeli rčení "Nejlepší učitelé vám řeknou kam se dívat, ale ne, co byste měli vidět." Nemusíte znát všechno, ale měli byste vědět, kde to vyhledat anebo koho se zeptat. Pokud něco nevíte, zkuste domluvit vašemu menteemu kontakt s někým, kdo by to vědět mohl a kdo by jim mohl pomoci. Chvíli to trvá, než se dostanete do pohody s někým, koho dobře neznáte, ale časem se vám to povede. Mentor je někdo, s kým můžete schodit své zábrany, sdílet své nejistoty a ptát se na "hloupé" otázky, které každý někdy máme.
 
@@ -249,7 +251,7 @@ Možná jste slyšeli rčení "Nejlepší učitelé vám řeknou kam se dívat, 
 
 </td><td>
 
-Tenhle komiks jsem našla v knize, která mi nedávno byla darována a myslím, že zdůrazňuje, to co se snažím sdělit. 
+Tenhle komiks jsem našla v knize, která mi nedávno byla darována a myslím, že zdůrazňuje, to co se snažím sdělit.
 
 </td></tr>
 <tr><td width="30%">
@@ -258,9 +260,9 @@ Tenhle komiks jsem našla v knize, která mi nedávno byla darována a myslím, 
 
 </td><td>
 
-Společně s tímto komiksem jsem našla citát od Solomona Hykese, který je zakladatel a CTO Dockeru. Hodně se mi ten citát líbil. 
+Společně s tímto komiksem jsem našla citát od Solomona Hykese, který je zakladatel a CTO Dockeru. Hodně se mi ten citát líbil.
 
-Jak můžete vidět, říct "Nevím." je naprosto v pořádku. Ve skutečnosti jak Solomon říká, přiznat, že něco nevíte, vám obvykle šetří čas a energii a ušetří vás to toho, že se stresujete. Je mnohem lepší říct "Nevím" a vyhledat pomoc, než se pokoušet chovat, jako že to víte a trávit hodiny a hodiny hledáním řešení, kdežto s pomocí by vám to možná trvalo jen pár minut. 
+Jak můžete vidět, říct "Nevím." je naprosto v pořádku. Ve skutečnosti jak Solomon říká, přiznat, že něco nevíte, vám obvykle šetří čas a energii a ušetří vás to toho, že se stresujete. Je mnohem lepší říct "Nevím" a vyhledat pomoc, než se pokoušet chovat, jako že to víte a trávit hodiny a hodiny hledáním řešení, kdežto s pomocí by vám to možná trvalo jen pár minut.
 
 </td></tr>
 <tr><td width="30%">
@@ -269,7 +271,7 @@ Jak můžete vidět, říct "Nevím." je naprosto v pořádku. Ve skutečnosti j
 
 </td><td>
 
-Jak jsem říkala dříve, vždycky byste se měli zároveň vidět jako mentor a mentee. Nechovejte se, jako že všechno znáte, protože to není pravda. Ptejte se na otázky. Pamatujte, že neexistují hloupé otázky. Buďte otevřený tomu se učit i od svého menteeho. Mějte na paměti, že je to obousměrná ulice. Přijďte na to, co se můžete naučit navzájem. 
+Jak jsem říkala dříve, vždycky byste se měli zároveň vidět jako mentor a mentee. Nechovejte se, jako že všechno znáte, protože to není pravda. Ptejte se na otázky. Pamatujte, že neexistují hloupé otázky. Buďte otevřený tomu se učit i od svého menteeho. Mějte na paměti, že je to obousměrná ulice. Přijďte na to, co se můžete naučit navzájem.
 
 </td></tr>
 <tr><td width="30%">
@@ -278,9 +280,9 @@ Jak jsem říkala dříve, vždycky byste se měli zároveň vidět jako mentor 
 
 </td><td>
 
-Naslouchejte. Jednou z vašich náplní práce mentora je poradit a povzbudit, ale abyste to mohli udělat, musíte si udělat čas na to nejprve poslouchat a porozumět situaci. Poslouchejte víc, než sami mluvíte. Přijďte na to, jaký druh pomoci váš mentee potřebuje. Přijďte na to s čím přesně mentee zápolí. Někdy naslouchat znamená fungovat jako gumová kachnička. 
+Naslouchejte. Jednou z vašich náplní práce mentora je poradit a povzbudit, ale abyste to mohli udělat, musíte si udělat čas na to nejprve poslouchat a porozumět situaci. Poslouchejte víc, než sami mluvíte. Přijďte na to, jaký druh pomoci váš mentee potřebuje. Přijďte na to s čím přesně mentee zápolí. Někdy naslouchat znamená fungovat jako gumová kachnička.
 
-Možná jste slyšeli o konceptu debuggování gumovou kachničkou. Shrnu to pro ty z vás, kteří neví, o co se jedná. Představte si, že jste se při programování zasekli. Máte na stole malou gumovou kachničku a začnete jí problém vysvětlovat. Idea je taková, že jenom tím, že popíšete a vysvětlíte svůj problém někomu jinému nahlas, řešení se vám buďto může vyloupnout v mysli anebo alespoň budete lépe rozumět a budete schopni popsat ten problém přesněji. A často je to přesně práce mentora, jenom sedět vedle menteeho a naslouchat. 
+Možná jste slyšeli o konceptu debuggování gumovou kachničkou. Shrnu to pro ty z vás, kteří neví, o co se jedná. Představte si, že jste se při programování zasekli. Máte na stole malou gumovou kachničku a začnete jí problém vysvětlovat. Idea je taková, že jenom tím, že popíšete a vysvětlíte svůj problém někomu jinému nahlas, řešení se vám buďto může vyloupnout v mysli anebo alespoň budete lépe rozumět a budete schopni popsat ten problém přesněji. A často je to přesně práce mentora, jenom sedět vedle menteeho a naslouchat.
 
 </td></tr>
 <tr><td width="30%">
@@ -320,7 +322,7 @@ Vždy buďte pozitivní a povzbudiví. Věřte ve svého menteeho a ukažte mu t
 
 </td><td>
 
-Držte v paměti, že slova jsou velmi mocná. Slova mohou zničit lidské sebevědomí, elán a kompletně je odradit. Volte slova opatrně. Omluvte se, pokud jste někdy volili slova špatně. Stává se to nám všem a proto je důležité, že si uvědomíme svoje chyby a pokusíme se to udělat lépe. Nikdy neříkejte někomu, že selhal. Slovo selhání je tak silné a destruktivní, že ho nepotřebujeme používat. 
+Držte v paměti, že slova jsou velmi mocná. Slova mohou zničit lidské sebevědomí, elán a kompletně je odradit. Volte slova opatrně. Omluvte se, pokud jste někdy volili slova špatně. Stává se to nám všem a proto je důležité, že si uvědomíme svoje chyby a pokusíme se to udělat lépe. Nikdy neříkejte někomu, že selhal. Slovo selhání je tak silné a destruktivní, že ho nepotřebujeme používat.
 
 </td></tr>
 <tr><td width="30%">
@@ -329,9 +331,9 @@ Držte v paměti, že slova jsou velmi mocná. Slova mohou zničit lidské sebev
 
 </td><td>
 
-A na konec, nedotýkejte se laptopu nebo klávesnice vašeho menteeho, pokud vás o to specificky nepožádá. Vím, že je to lákavé, sedět vedle někoho a moci mu něco ukázat dotknutím se jeho obrazovky nebo šáhnout po jeho klávesnici a napsat to za ně. 
+A na konec, nedotýkejte se laptopu nebo klávesnice vašeho menteeho, pokud vás o to specificky nepožádá. Vím, že je to lákavé, sedět vedle někoho a moci mu něco ukázat dotknutím se jeho obrazovky nebo šáhnout po jeho klávesnici a napsat to za ně.
 
-Je to ve skutečnosti ale velice neslušné. Buďte trpěliví. Možná to bude trvat trošku déle, ale pokud to necháte svého menteeho udělat samotného, naučí se to. Nechcete přeci, aby vám někdo bral klávesnici a nechával otisky prstů na obrazovce, že? Tak to prosím nedělejte někomu jinému. 
+Je to ve skutečnosti ale velice neslušné. Buďte trpěliví. Možná to bude trvat trošku déle, ale pokud to necháte svého menteeho udělat samotného, naučí se to. Nechcete přeci, aby vám někdo bral klávesnici a nechával otisky prstů na obrazovce, že? Tak to prosím nedělejte někomu jinému.
 
 </td></tr>
 <tr><td width="30%">
@@ -351,17 +353,17 @@ Existují jisté pomocné nástroje, které můžete použít, když někoho bud
 
 Zde je výběr nástrojů, které ráda používám.
 
-Slack: Slack je skvělý komunikační nástroj. Je jednoduchý, svoji vlastní instanci Slacku si vytvoříte zdarma a myslím, že se používá snadněji než IRC, obzvlášť pokud pracujete s programátorskými začátečníky. Nastavit IRC může být pro programátorské začátečníky opravdu složité. 
+Slack: Slack je skvělý komunikační nástroj. Je jednoduchý, svoji vlastní instanci Slacku si vytvoříte zdarma a myslím, že se používá snadněji než IRC, obzvlášť pokud pracujete s programátorskými začátečníky. Nastavit IRC může být pro programátorské začátečníky opravdu složité.
 
 Email: Vím, že mnoho lidí nesnáší psaní emailů, protože jich denně dostávají takové množství, ale obvykle když je necháte stručné a potřebujete rychlou odpověď, email je skvělý komunikační nástroj.
 
 Skype nebo Google Hangouts fungují skvěle pro sdílení obrazovky anebo chatování. Občas se cítím trochu nejistě ohledně soukromí Skype a Google Hangouts, takže preferuji textové nástroje, ale stejně jsou to obecně dobré nástroje.
 
-Cloud9 je skvělé online vývojové prostředí, které vám umožní s někým sdílet pracovní plochu. Rozhodně to není nejlepší vývojové prostředí, ale je skvělé pro spolupráci, takže oba můžete sledovat zároveň stejný kód a vidět, co ten druhý dělá. 
+Cloud9 je skvělé online vývojové prostředí, které vám umožní s někým sdílet pracovní plochu. Rozhodně to není nejlepší vývojové prostředí, ale je skvělé pro spolupráci, takže oba můžete sledovat zároveň stejný kód a vidět, co ten druhý dělá.
 
 Pastebin nebo Gist může znít naprosto triviálně, ale když jsem začínala programovat, neměla jsem ponětí, jak sdílet s někým svůj kód jinak než pomocí vyfocení obrazovky, takže tyhle nástroje můžou být skvělé.
 
-Samozřejmě existuje tuna dalších nástrojů, které byste mohli použít, tohle je jenom malý výběr nástrojů, které ráda používám. Přijďte na to, co je pro vás a vašeho menteeho nejlepší. 
+Samozřejmě existuje tuna dalších nástrojů, které byste mohli použít, tohle je jenom malý výběr nástrojů, které ráda používám. Přijďte na to, co je pro vás a vašeho menteeho nejlepší.
 
 </td></tr>
 <tr><td width="30%">
@@ -450,7 +452,7 @@ Ta žena, o které mluvím, se jmenuje Mariatta. A Mariatta je opravdu úžasná
 
 </td><td>
 
-A kdysi dávno, ve skutečnosti před asi dvěma lety existovala další mladá žena, která snila o přispívání na konferencích, protože ve skutečnosti byla z mluvení na veřejnosti totálně vyděšená. Ozvala se svým kamarádům z Python a Django komunit a s jejich pomocí a podporou už od té doby 12 krát přispívala na konferenci, účastnila se několika panelových diskuzí a pár kratších lighting talk. A dneska je ta žena poprvé klíčový řečník na konferenci. Jestli vám to ještě nedošlo, tak ta mladá žena jsem já. 
+A kdysi dávno, ve skutečnosti před asi dvěma lety existovala další mladá žena, která snila o přispívání na konferencích, protože ve skutečnosti byla z mluvení na veřejnosti totálně vyděšená. Ozvala se svým kamarádům z Python a Django komunit a s jejich pomocí a podporou už od té doby 12 krát přispívala na konferenci, účastnila se několika panelových diskuzí a pár kratších lighting talk. A dneska je ta žena poprvé klíčový řečník na konferenci. Jestli vám to ještě nedošlo, tak ta mladá žena jsem já.
 
 </td></tr>
 <tr><td width="30%">
